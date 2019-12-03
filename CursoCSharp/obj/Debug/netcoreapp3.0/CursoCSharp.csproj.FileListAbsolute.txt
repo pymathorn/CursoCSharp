@@ -1,0 +1,11 @@
+C:\Users\zothr\source\repos\CursoCSharp\CursoCSharp\bin\Debug\netcoreapp3.0\CursoCSharp.exe
+C:\Users\zothr\source\repos\CursoCSharp\CursoCSharp\bin\Debug\netcoreapp3.0\CursoCSharp.deps.json
+C:\Users\zothr\source\repos\CursoCSharp\CursoCSharp\bin\Debug\netcoreapp3.0\CursoCSharp.runtimeconfig.json
+C:\Users\zothr\source\repos\CursoCSharp\CursoCSharp\bin\Debug\netcoreapp3.0\CursoCSharp.runtimeconfig.dev.json
+C:\Users\zothr\source\repos\CursoCSharp\CursoCSharp\bin\Debug\netcoreapp3.0\CursoCSharp.dll
+C:\Users\zothr\source\repos\CursoCSharp\CursoCSharp\bin\Debug\netcoreapp3.0\CursoCSharp.pdb
+C:\Users\zothr\source\repos\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp3.0\CursoCSharp.csprojAssemblyReference.cache
+C:\Users\zothr\source\repos\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp3.0\CursoCSharp.AssemblyInfoInputs.cache
+C:\Users\zothr\source\repos\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp3.0\CursoCSharp.AssemblyInfo.cs
+C:\Users\zothr\source\repos\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp3.0\CursoCSharp.dll
+C:\Users\zothr\source\repos\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp3.0\CursoCSharp.pdb
